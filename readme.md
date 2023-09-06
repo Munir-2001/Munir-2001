@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **svelte**
+- 🤝 I’m looking for help with **svelte kit**
 
 - 💬 Ask me about **blockchain development**
 
