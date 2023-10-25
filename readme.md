@@ -2,15 +2,15 @@
 <h1 align="center">Hi 🤙, I'm Munir Abbasi</h1>
 <h3 align="center">I'm a student and software engineer</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **solidity and web3**
+- 🌱 I’m currently learning **DRF**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **svelte kit**
 
-- 💬 Ask me about **blockchain development, software delivery, and back-end dev**
+- 💬 Ask me about **blockchain development, software development, and back-end dev**
 
 - 📫 How to reach me **munirabbasi2001@gmail.com**
 
