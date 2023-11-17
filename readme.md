@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **munirabbasi2001@gmail.com**
 
-- ⚡ Fun fact **I run on puns and tea.**
+- ⚡ Fun fact **I run on puns and tea **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
