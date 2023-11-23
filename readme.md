@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **svelte kit**
 
-- 💬 Ask me about **blockchain development, software development, and back-end dev**
+- 💬 Ask me about **blockchain development, cloud computing, and core back-end dev**
 
 - 📫 How to reach me **munirabbasi2001@gmail.com**
 
