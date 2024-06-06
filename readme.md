@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **fintech projects**
+- 👯 I’m looking to collaborate on **Fintech projects**
 
-- 🤝 I’m looking for help with **svelte kit**
+- 🤝 I’m looking for help with **Svelte Kit**
 
-- 💬 Ask me about **blockchain development, and core back-end dev**
+- 💬 Ask me about **blockchain and core back-end dev**
 
 - 📫 How to reach me **munirabbasi2001@gmail.com**
 
