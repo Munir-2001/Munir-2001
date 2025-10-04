@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🤙, I'm Munir Abbasi</h1>
 <h3 align="center">I'm a student and software engineer</h3>
 
-- 🔭 I’m currently working on **.NET**
+- 🔭 I’m currently working on **Rust & Solana**
 
 - 🌱 I’m currently learning **Angular**
 
